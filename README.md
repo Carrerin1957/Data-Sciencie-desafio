@@ -35,5 +35,4 @@ A partir de estos análisis, se espera identificar **qué tienda presenta menor 
 
 Esta información puede ser utilizada para tomar decisiones estratégicas orientadas a la mejora del rendimiento de esa tienda.
 
-## 📁 Estructura de los archivos
 
